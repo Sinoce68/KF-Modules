@@ -1,6 +1,8 @@
-https://github.com/Sinoce68/KF-Modules/blob/main/create_malware.py
-https://github.com/Sinoce68/KF-Modules/blob/main/hash_cracker.py
-https://github.com/Sinoce68/KF-Modules/blob/main/ssh.py
-https://github.com/Sinoce68/KF-Modules/blob/main/pscan.py
-https://github.com/Sinoce68/KF-Modules/blob/main/harfeto_crack.py
-https://github.com/Sinoce68/KF-Modules/blob/main/ftp.py
+{
+  "ftp":"https://github.com/Sinoce68/KF-Modules/blob/main/ftp.py",
+  "pscan":"https://github.com/Sinoce68/KF-Modules/blob/main/.py",
+  "hash_cracker":"https://github.com/Sinoce68/KF-Modules/blob/main/hach_cracker.py",
+  "create_malware":"https://github.com/Sinoce68/KF-Modules/blob/main/create_malware.py",
+  "ssh":"https://github.com/Sinoce68/KF-Modules/blob/main/ssh.py",
+  "harfeto_crack":"https://github.com/Sinoce68/KF-Modules/blob/main/harfeto_crack.py",
+}
